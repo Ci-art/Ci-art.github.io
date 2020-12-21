@@ -1,6 +1,7 @@
 ---
 title: hexo 시작
 date: 2020-12-21 23:41:53
+categories:
 tags:
 ---
 
